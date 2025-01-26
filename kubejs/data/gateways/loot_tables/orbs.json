@@ -1,0 +1,43 @@
+{
+    "type": "generic",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:amethyst_shard",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:gold_ingot",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:emerald",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond",
+                    "weight": 2,
+                    "quality": 2
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:netherite_scrap",
+                    "weight": 1,
+                    "quality": 2
+                }
+            ]
+        }
+    ]
+
+}

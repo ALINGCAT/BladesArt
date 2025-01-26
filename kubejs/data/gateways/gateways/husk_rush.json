@@ -1,0 +1,67 @@
+{
+	"size": "medium",
+	"color": "#C6A300",
+	"waves": [{
+			"entities": [
+                {
+                    "entity": "minecraft:husk",
+                    "count": 3
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:orbs",
+                    "desc": "rewards.gateways.loot_table.orbs",
+                    "rolls": 3
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:husk",
+                    "count": 5
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:orbs",
+                    "desc": "rewards.gateways.loot_table.orbs",
+                    "rolls": 5
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:husk",
+                    "count": 8
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:orbs",
+                    "desc": "rewards.gateways.loot_table.orbs",
+                    "rolls": 8
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		}
+	],
+    "rewards": [
+        {
+            "type": "gateways:loot_table",
+            "loot_table": "gateways:orbs",
+            "desc": "rewards.gateways.loot_table.orbs",
+            "rolls": 10
+        }
+    ]
+}

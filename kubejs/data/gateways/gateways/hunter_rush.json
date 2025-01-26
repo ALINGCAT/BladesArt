@@ -1,0 +1,98 @@
+{
+	"size": "medium",
+	"color": "#5B5B5B",
+	"waves": [{
+			"entities": [
+                {
+                    "entity": "minecraft:pillager",
+                    "count": 4
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:random_artifact",
+                    "desc": "rewards.gateways.loot_table.random_artifact",
+                    "rolls": 1
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:pillager",
+                    "count": 4
+                },
+                {
+                    "entity": "minecraft:vindicator",
+                    "count": 2
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:random_artifact",
+                    "desc": "rewards.gateways.loot_table.random_artifact",
+                    "rolls": 1
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:pillager",
+                    "count": 4
+                },
+                {
+                    "entity": "minecraft:vindicator",
+                    "count": 1
+                },
+                {
+                    "entity": "minecraft:ravager",
+                    "count": 2
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:random_artifact",
+                    "desc": "rewards.gateways.loot_table.random_artifact",
+                    "rolls": 1
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:evoker",
+                    "count": 1
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:random_artifact",
+                    "desc": "rewards.gateways.loot_table.random_artifact",
+                    "rolls": 1
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		}
+	],
+    "rewards": [
+        {
+            "type": "gateways:stack",
+            "stack": {
+                "item": "l2artifacts:random_3",
+                "count": 1
+            }
+        }
+    ]
+}

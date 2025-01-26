@@ -1,0 +1,39 @@
+{
+    "type": "generic",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "l2artifacts:random_1",
+                    "weight": 49
+                },
+                {
+                    "type": "item",
+                    "name": "l2artifacts:random_2",
+                    "weight": 30
+                },
+                {
+                    "type": "item",
+                    "name": "l2artifacts:random_3",
+                    "weight": 15,
+                    "quality": 3
+                },
+                {
+                    "type": "item",
+                    "name": "l2artifacts:random_4",
+                    "weight": 4,
+                    "quality": 4
+                },
+                {
+                    "type": "item",
+                    "name": "l2artifacts:random_5",
+                    "weight": 1,
+                    "quality": 5
+                }
+            ]
+        }
+    ]
+
+}

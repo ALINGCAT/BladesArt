@@ -1,0 +1,67 @@
+{
+	"size": "medium",
+	"color": "#007500",
+	"waves": [{
+			"entities": [
+                {
+                    "entity": "minecraft:zombie",
+                    "count": 8
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:pandora",
+                    "desc": "rewards.gateways.loot_table.pandora",
+                    "rolls": 1
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:husk",
+                    "count": 8
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:pandora",
+                    "desc": "rewards.gateways.loot_table.pandora",
+                    "rolls": 1
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:drowned",
+                    "count": 8
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:pandora",
+                    "desc": "rewards.gateways.loot_table.pandora",
+                    "rolls": 1
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		}
+	],
+    "rewards": [
+        {
+            "type": "gateways:loot_table",
+            "loot_table": "gateways:pandora",
+            "desc": "rewards.gateways.loot_table.pandora",
+            "rolls": 1
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+	"size": "medium",
+	"color": "#FFFFFF",
+	"waves": [{
+			"entities": [
+                {
+                    "entity": "minecraft:spider",
+                    "count": 5
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:world_items",
+                    "desc": "rewards.gateways.loot_table.world_items",
+                    "rolls": 8
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:zombie",
+                    "count": 5
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:world_items",
+                    "desc": "rewards.gateways.loot_table.world_items",
+                    "rolls": 8
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:skeleton",
+                    "count": 5
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:world_items",
+                    "desc": "rewards.gateways.loot_table.world_items",
+                    "rolls": 8
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		},
+        {
+			"entities": [
+                {
+                    "entity": "minecraft:enderman",
+                    "count": 4
+                }
+            ],
+			"rewards": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:world_items",
+                    "desc": "rewards.gateways.loot_table.world_items",
+                    "rolls": 8
+                }
+            ],
+			"max_wave_time": 3600,
+			"setup_time": 100
+		}
+	],
+    "rewards": [
+        {
+            "type": "gateways:stack",
+            "stack": {
+                "item": "minecraft:echo_shard",
+                "count": 8
+            }
+        }
+    ]
+}
