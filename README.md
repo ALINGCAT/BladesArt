@@ -3,3 +3,6 @@
 
 推荐使用[Terralith](https://www.mcmod.cn/class/4557.html)的数据包
 因为怕mod过多导冲突风险 并未将此数据包作为mod安装
+
+## v0.4更新
+增加自然罗盘 优化任务书
