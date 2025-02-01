@@ -4,10 +4,12 @@
 推荐使用[Terralith](https://www.mcmod.cn/class/4557.html)的数据包
 因为怕mod过多导冲突风险 并未将此数据包作为mod安装
 
+可以自行选择安装[PlayerAnimator](https://www.mcmod.cn/class/7487.html) 为拔刀提供更多动作 注意使用时需要删除YSM 它与YSM不兼容
+
+需要注意的是 附属SA的动作并无PlayerAnimator动画
+
 ### v0.5正在大改
 删除莱特兰恶意 弓艺 扩充 潘多拉之咒 删除有关任务书条目
-
-删除slash blade relic 这个附属的刀道具显示非常吃性能
 
 保留莱特兰古遗物 新增星月遗物与星月再锻
 
