@@ -1,10 +1,6 @@
 # 刀之艺
 一个以拔刀剑重锋与永恒之门为核心的整合包(1.20.1) 点击[这里](https://github.com/ALINGCAT/BladesArt/releases)下载整合包
 
-可以自行选择安装[PlayerAnimator](https://www.mcmod.cn/class/7487.html) 为拔刀提供更多动作 注意使用时需要删除YSM 它与YSM不兼容
-
-需要注意的是 附属SA的动作并无PlayerAnimator动画
-
 ## v1.2更新
 大幅调整任务书与挑战屋模块
 
