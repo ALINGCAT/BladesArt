@@ -1,6 +1,10 @@
 # 刀之艺
 一个以拔刀剑重锋与永恒之门为核心的整合包(1.20.1) 点击[这里](https://github.com/ALINGCAT/BladesArt/releases)下载整合包
 
+## v0.5胧剑更新
+- [刀升级路线UML](https://www.processon.com/view/link/67c110fda24d1b09116b5d06?cid=67c052d499884e69def5d181)
+- 新增UI优化mod 新增Scaling Health
+
 ## v0.4.4更新
 - 删除迅捷铁刀的合成
 - 马娘任务书优化 新增任务书奖励
